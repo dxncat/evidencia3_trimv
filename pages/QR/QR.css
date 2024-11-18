@@ -1,0 +1,44 @@
+.outer-container {
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+    background-color: white;
+    min-height: calc(100vh - 40px);
+}
+
+.scanner-card {
+    background: white;
+    border-radius: 15px;
+    padding: 20px;
+    max-width: 400px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.logo-container {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto 20px;
+}
+
+.divider {
+    height: 2px;
+    background-color: #e0e0e0;
+    margin: 20px 0;
+}
+
+.scan-text {
+    color: #666;
+    font-size: 1.2rem;
+    margin: 0;
+}
+
+.badge-logo {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    width: 64px;
+    height: 64px;
+}
