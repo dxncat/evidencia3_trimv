@@ -17,12 +17,6 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-.logo-container {
-    width: 200px;
-    height: 200px;
-    margin: 0 auto 20px;
-}
-
 .divider {
     height: 2px;
     background-color: #e0e0e0;
@@ -33,12 +27,4 @@
     color: #666;
     font-size: 1.2rem;
     margin: 0;
-}
-
-.badge-logo {
-    position: absolute;
-    bottom: 20px;
-    right: 20px;
-    width: 64px;
-    height: 64px;
 }
